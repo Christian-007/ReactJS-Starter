@@ -1,0 +1,19 @@
+$mycolor: #111;
+
+#react-container {
+  padding-top: 75px;
+
+  .jumbotron {
+    padding-top: 40px;
+    padding-bottom: 40px;
+  }
+
+}
+
+.aclass {
+  color: $mycolor;
+
+  .innerclass {
+    color: $mycolor;
+  }
+}
